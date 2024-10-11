@@ -2,9 +2,11 @@
 
 Gaël Pfennig
 
+18 ans
+
 ## Profile :
 
-Etudiant en BTS SIO (Service informatique aux organisations) à la CCI de Strasbourg, je suis en alternance chez SOCOMEC à Benfeld en tant que IT helpdesk technician, j'ai toujours été attiré par l'informatique et les nouvelles technologies.
+Etudiant en BTS SIO (Service informatique aux organisations) à la CCI de Strasbourg, je suis en alternance chez SOCOMEC à Benfeld en tant que IT helpdesk technician, j'ai toujours été attiré par l'informatique, en voulant chercher à comment les choses fonctionnent derrière une simple interface d'ordinateur, comment elles sont gérés dans différentes structures.
 
 ### Formation : 
 
