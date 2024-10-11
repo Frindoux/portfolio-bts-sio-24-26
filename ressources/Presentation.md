@@ -26,3 +26,5 @@ Juillet - Aout 2023 ALS Hôtel Ottmarsheim :
   - Nettoyage
 - Employé au service d'étage
   - Nettoyage et entretiens des chambres
+
+### Expérience personnelle :
