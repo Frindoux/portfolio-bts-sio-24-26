@@ -53,4 +53,6 @@ La connexion wifi n'étant souvent pas optimal dans toute la maison, j'ai eu com
 
 Projet en cours
 
+![](C:\BTS_SIO\cci-sio24-portfolio-pfenniggael\documentation\medias\illustration_portfolio.jpg)
+
 Création d'un site web permettant de se présenter. Ce projet requiert plusieurs compétences pour pouvoir aboutir, nous apprendrons donc au fur et à mesure l'utilisation de GIT pour faire du suivi de version de notre projet, l'utilisation d'outils de design de site web et pour finir les langages HTML et CSS qui permettent la création du site, HTML pour la structure et CSS pour le style du site.
