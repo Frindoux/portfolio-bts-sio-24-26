@@ -37,8 +37,14 @@ Juillet - Aout 2023 ALS Hôtel Ottmarsheim :
 
 ### Projets personnel :
 
-Transformation d'un ancien PC en serveur :
+*Transformation d'un ancien PC en serveur :*
 
 #### ![](C:\BTS_SIO\cci-sio24-portfolio-pfenniggael\documentation\medias\illustration_serveur.jpg)
 
 En récupérant un ancien PC classique tournant sur Windows que j'ai nettoyé, après avoir formatté entièrement les disques, j'ai installé une distribution linux appelé [OpenMediaVault](https://www.openmediavault.org/). Une fois cette distribution installé depuis une clé USB la configuration se fait depuis une interface WEB. J'ai mis en place des profils d'accès utilisateur, des répertoires de stockage accessible et une configuration RAID pour éviter les pertes de données.
+
+*Mise en place de point d'accès wifi*
+
+![](C:\BTS_SIO\cci-sio24-portfolio-pfenniggael\documentation\medias\illlustration wifi.jpg)
+
+La connexion wifi n'étant souvent pas optimal dans toute la maison, j'ai eu comme mission d'installer un point d'accès wifi à l'étage pour étendre la portée du réseau. Ce point d'accès wifi agit comme un second wifi où l'on peut se connecter à l'étage et bénéficier d'un réseau performant.
