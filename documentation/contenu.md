@@ -60,3 +60,5 @@ Création d'un site web permettant de se présenter. Ce projet requiert plusieur
 D'autres projets à suivre...
 
 ### Espace de veille technologique :
+
+Pour les actualités générales dans le domaine de la technologie, le site [01net](https://www.01net.com/) permet de couvrir très largement ce domaine, avec des articles allant de objets connectés à intelligence artificielle en passant par les nouveautés Hardware tels que les nouveaux modèles de téléphones des différentes constructeurs, les différents modèles de PC avec des comparatifs qui permettent d'aider à faire des choix.
