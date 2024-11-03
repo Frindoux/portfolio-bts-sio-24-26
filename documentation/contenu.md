@@ -16,7 +16,7 @@ Sélestat
 
 ## Profile :
 
-Etudiant en BTS SIO (Service informatique aux organisations) à la CCI de Strasbourg, je suis en alternance chez SOCOMEC à Benfeld en tant que IT helpdesk technician, j'ai toujours été attiré par l'informatique, en voulant chercher à comment les choses fonctionnent derrière une simple interface d'ordinateur, comment elles sont gérés dans différentes structures.
+Etudiant en BTS SIO (Service informatique aux organisations) à la CCI de Strasbourg, je suis en alternance chez SOCOMEC à Benfeld en tant que technicien helpdesk, j'ai toujours été attiré par l'informatique, en voulant chercher à comment les choses fonctionnent derrière une simple interface d'ordinateur, et dans le monde professionnel avec comment gérer les ordinateurs dans une entreprise, assurer un bon fonctionnement du service informatique.
 
 ### Formation : 
 
