@@ -61,3 +61,8 @@ D'autres projets à suivre...
 
 ### Espace de veille technologique :
 
+L'arrivé de ChatGPT
+
+Le 30 novembre 2022 l'entreprise OpenAI présente son modèle d'IA qui fonctionne sous forme de conversation où l'utilisateur peut discuter avec l'IA qui va se souvenir de chaque information et pourra les réutiliser si besoins dans la suite en fonction de ce qui est demandé. Ce modèle révolutionne en quelque sorte le monde de l'IA, car il est très polyvalent et performant. On peut aussi noter que ce modèle est accessible au grand publique très facilement depuis son navigateur.
+
+Source : [OpenAI](https://openai.com/index/chatgpt/)
