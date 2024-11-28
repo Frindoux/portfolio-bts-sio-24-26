@@ -1,5 +1,11 @@
 # Charte graphique
 
+## Contexte du projet
+
+Ce projet de portefolio est mis en place en tant que premier projet du BTS SIO, le but est de suivre la démarche de projet entière du développement d'un site web.
+
+Il permet de voire tout les aspect de la première idée à la réalisation finale du site web
+
 ## Logo
 
 ![logo](.\medias\logo.png)
