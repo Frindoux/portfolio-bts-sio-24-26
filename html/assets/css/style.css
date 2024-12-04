@@ -14,13 +14,17 @@ body{
     flex-direction: row;
     top: 0;
     background-color: black;
+    opacity: 80%;
     height: 70px;
     width: 100%;
-    align-items: center;
-    justify-content: space-between;
 }
 
 .elelist{
     font-family: Kode Mono;
     color: white;
+    margin-right: 20px;
+}
+
+.elelist:hover{
+    text-decoration: underline;
 }
