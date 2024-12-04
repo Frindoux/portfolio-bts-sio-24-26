@@ -1,12 +1,26 @@
+body{
+    margin: 0;
+}
+
 #background{
     height: auto;
-    width: 101%;
+    width: 100.5%;
 }
 
 .navbar{
     position: fixed;
     list-style: none;
     display: flex;
-    justify-content: space-between;
     flex-direction: row;
+    top: 0;
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.elelist{
+    font-family: Kode Mono;
+    color: white;
 }
