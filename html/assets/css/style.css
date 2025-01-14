@@ -16,6 +16,15 @@ body{
     position: absolute;
     top: 60%;
     right: 55%;
+    text-align: center;
+}
+
+.presentation{
+    color: white;
+    background-color: #1E1E1E;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #background{
