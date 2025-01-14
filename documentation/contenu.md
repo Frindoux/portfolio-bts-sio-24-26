@@ -39,13 +39,13 @@ Juillet - Aout 2023 ALS Hôtel Ottmarsheim :
 
 *Transformation d'un ancien PC en serveur :*
 
-#### ![](.\medias\illustration_serveur.jpg)
+#### ![](./medias/illustration_serveur.jpg)
 
 En récupérant un ancien PC classique tournant sur Windows que j'ai nettoyé, après avoir formatté entièrement les disques, j'ai installé une distribution linux appelé [OpenMediaVault](https://www.openmediavault.org/). Une fois cette distribution installé depuis une clé USB la configuration se fait depuis une interface WEB. J'ai mis en place des profils d'accès utilisateur, des répertoires de stockage accessible et une configuration RAID pour éviter les pertes de données.
 
 *Mise en place de point d'accès wifi*
 
-![](.\medias\illlustration wifi.jpg)
+![](./medias/illlustration wifi.jpg)
 
 La connexion wifi n'étant souvent pas optimal dans toute la maison, j'ai eu comme mission d'installer un point d'accès wifi à l'étage pour étendre la portée du réseau. Ce point d'accès wifi agit comme un second wifi où l'on peut se connecter à l'étage et bénéficier d'un réseau performant.
 
@@ -53,7 +53,7 @@ La connexion wifi n'étant souvent pas optimal dans toute la maison, j'ai eu com
 
 Projet en cours
 
-![](.\medias\illustration_portfolio.jpg)
+![](./medias/illustration_portfolio.jpg)
 
 Création d'un site web permettant de se présenter. Ce projet requiert plusieurs compétences pour pouvoir aboutir, nous apprendrons donc au fur et à mesure l'utilisation de GIT pour faire du suivi de version de notre projet, l'utilisation d'outils de design de site web et pour finir les langages HTML et CSS qui permettent la création du site, HTML pour la structure et CSS pour le style du site.
 
