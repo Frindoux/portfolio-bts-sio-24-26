@@ -1,13 +1,19 @@
 body{
+    font-family: Kode Mono;
     background-color: black;
     margin: 0;
 }
 
 #logo{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 55%;
     transform: translate(-0%, -0%);
+}
+
+#bienvenue{
+    color: white;
+    position: absolute;
 }
 
 #background{
@@ -30,7 +36,6 @@ body{
 }
 
 .elelist{
-    font-family: Kode Mono;
     color: white;
     margin-right: 30px;
 }
