@@ -8,7 +8,7 @@ Il permet de voire tout les aspect de la première idée à la réalisation fina
 
 ## Logo
 
-![logo](.\medias\logo.png)
+![logo](./medias/logo.png)
 
 J'ai choisi un logo qui représente une baie de serveur car c'est un élément majeur dans les bases de données.
 
@@ -22,7 +22,7 @@ La police que j'ai choisis est la "Kode Mono" Cette police semble tout droit ven
 
 Elle ressemble à ça : 
 
- ![](.\medias\kode_mono-2.jpg)
+ ![](./medias/kode_mono-2.jpg)
 
 
 
