@@ -25,6 +25,17 @@ body{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    padding: 3%;
+}
+
+#titreprofile{
+    margin-top: 0px;
+}
+
+#textpresentation{
+    margin-top: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 #background{
