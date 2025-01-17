@@ -59,12 +59,13 @@ body{
     justify-content: center;
 }
 
-.elelist{
+.elelist a{
     color: white;
     margin-right: 30px;
+    text-decoration: none;
 }
 
-.elelist:hover{
+.elelist:hover a{
     text-decoration: underline;
 }
 
