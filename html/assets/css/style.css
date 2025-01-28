@@ -114,6 +114,13 @@ body{
     background-color: #1E1E1E;
 }
 
+#titreprojet{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 3%;
+}
+
 .veilletechno{
     color: white;
     background-color: #1E1E1E;
