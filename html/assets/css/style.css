@@ -79,6 +79,9 @@ body{
 }
 
 #titreparcours{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
     margin-bottom: 3%;
 }
 
