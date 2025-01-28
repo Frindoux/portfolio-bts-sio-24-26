@@ -75,15 +75,35 @@ body{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    padding: 3%;
 }
 
-.whitebar{
-    position: absolute;
+#titreparcours{
+    margin-bottom: 3%;
+}
+
+.parcourscontainer{
+    border-left: solid white;
+}
+
+.eleparcours {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
     margin-left: 20%;
+}
+
+.eleparcours li{
+    margin-bottom: 3%;
+}
+
+.whiteBar {
     background-color: white;
     width: 5px;
-    height: 200px;
-    border-radius: 30%;
+    height: 100%; 
+    border-radius: 10px;
+    margin-right: 20px; 
 }
 
 .projets{
