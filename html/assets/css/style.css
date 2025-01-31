@@ -138,12 +138,16 @@ body{
     font-size: 100%;
 }
 
+.second_project_container h1{
+    font-size: 100%;
+}
+
 .first_project_container img{
     size: 50%;
     filter: brightness(150%);
 }
 
-.second_project_container   {
+.second_project_container{
     position:relative;
     border-radius: 5%;
     background-color:black;
