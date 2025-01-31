@@ -131,6 +131,7 @@ body{
     flex-direction: column;
     align-items: center;
     width: 20%;
+    padding: 2%;
 }
 
 .first_project_container h1{
@@ -140,6 +141,17 @@ body{
 .first_project_container img{
     size: 50%;
     filter: brightness(150%);
+}
+
+.second_project_container   {
+    position:relative;
+    border-radius: 5%;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    padding: 2%; 
 }
 
 #titreprojet{
