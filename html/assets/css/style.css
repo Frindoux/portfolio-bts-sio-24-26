@@ -124,7 +124,7 @@ body{
     gap: 30px;
 }
 
-.first_project_container{
+.single_project_container{
     position:relative;
     border-radius: 5%;
     background-color:black;
@@ -133,75 +133,27 @@ body{
     align-items: center;
     width: 20%;
     padding: 2%;
+    justify-content: space-between;
 }
 
-.first_project_container a{
+.single_project_container a{
     text-decoration: none;
     color: white;
 }
 
-.first_project_container a:hover{
+.single_project_container a:hover{
     text-decoration: underline;
 }
 
-.first_project_container h1{
+.single_project_container h1{
     font-size: 100%;
 }
 
-.second_project_container h1{
-    font-size: 100%;
-}
-
-.third_project_container h1{
-    font-size: 100%;
-}
-
-.first_project_container img{
+.single_project_container img{
     size: 50%;
-    filter: brightness(200%);
 }
 
-.second_project_container{
-    position:relative;
-    border-radius: 5%;
-    background-color:black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 20%;
-    padding: 2%;
-}
-
-.second_project_container a{
-    text-decoration: none;
-    color: white;
-}
-
-.second_project_container a:hover{
-    text-decoration: underline;
-}
-
-.third_project_container{
-    position:relative;
-    border-radius: 5%;
-    background-color:black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 20%;
-    padding: 2%;
-}
-
-.third_project_container a{
-    text-decoration: none;
-    color: white;
-}
-
-.third_project_container a:hover{
-    text-decoration: underline;
-}
-
-.third_project_container img{
+#imgprojet3{
     width: 80%;
     object-fit: cover;
 }
@@ -211,6 +163,16 @@ body{
     font-weight: normal;
     margin-top: 0px;
     margin-bottom: 3%;
+}
+
+.bodyprojet1{
+
+}
+
+.firstprojectpage{
+    display: flex;
+    color: white;
+    background-color: #1E1E1E;
 }
 
 .veilletechno{
