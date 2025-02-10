@@ -135,6 +135,15 @@ body{
     padding: 2%;
 }
 
+.first_project_container a{
+    text-decoration: none;
+    color: white;
+}
+
+.first_project_container a:hover{
+    text-decoration: underline;
+}
+
 .first_project_container h1{
     font-size: 100%;
 }
@@ -160,7 +169,16 @@ body{
     flex-direction: column;
     align-items: center;
     width: 20%;
-    padding: 2%; 
+    padding: 2%;
+}
+
+.second_project_container a{
+    text-decoration: none;
+    color: white;
+}
+
+.second_project_container a:hover{
+    text-decoration: underline;
 }
 
 .third_project_container{
@@ -172,6 +190,15 @@ body{
     align-items: center;
     width: 20%;
     padding: 2%;
+}
+
+.third_project_container a{
+    text-decoration: none;
+    color: white;
+}
+
+.third_project_container a:hover{
+    text-decoration: underline;
 }
 
 .third_project_container img{
