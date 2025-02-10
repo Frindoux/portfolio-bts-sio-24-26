@@ -183,7 +183,7 @@ body{
 
 .titre_retour h1{
     text-align: left;
-    width: 80%;
+    width: 75%;
 }
 
 .titre_retour a{
@@ -193,6 +193,15 @@ body{
 .text_img{
     display: flex;
     flex-direction: row;
+    padding-top: 5%;
+    font-size: 120%;
+    gap: 20%;
+    align-items: center;
+}
+
+.text_img p{
+    width: 50%;
+    text-align: center;
 }
 
 .projectpage a{
@@ -200,6 +209,7 @@ body{
     color: white;
     text-decoration: none;
     height: 100%;
+    width: auto;
 }
 
 .projectpage a:hover{
