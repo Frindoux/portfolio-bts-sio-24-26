@@ -167,14 +167,30 @@ body{
 
 .projectpage{
     display: flex;
+    flex-direction: column;
     color: white;
     background-color: #1E1E1E;
     padding: 3%;
-    border-radius: 10%;
+    border-radius: 50px;
     margin: 10%;
 }
 
 .titre_retour{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.titre_retour h1{
+    text-align: left;
+    width: 80%;
+}
+
+.titre_retour a{
+    width: 15%;
+}
+
+.text_img{
     display: flex;
     flex-direction: row;
 }
