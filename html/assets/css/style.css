@@ -109,9 +109,13 @@ body{
     margin-right: 20px; 
 }
 
+.bodyprojet1{
+    background-color:#1E1E1E;
+}
+
 .projets{
     color: white;
-    background-color: #1E1E1E;
+    background-color:#1E1E1E;
     text-align: center;
     padding-top: 3%;
     padding-bottom: 3%;
@@ -169,7 +173,7 @@ body{
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: #1E1E1E;
+    background-color:black;
     padding: 3%;
     border-radius: 50px;
     margin: 10%;
