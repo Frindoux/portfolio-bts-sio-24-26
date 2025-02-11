@@ -4,6 +4,11 @@ body{
     margin: 0;
 }
 
+.accueil{
+    display: flex;
+    flex-direction: row;
+}
+
 #logo{
     position: absolute;
     top: 40%;
