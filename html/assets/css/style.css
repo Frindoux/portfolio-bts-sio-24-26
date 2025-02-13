@@ -105,14 +105,6 @@ body{
     margin-bottom: 3%;
 }
 
-.whiteBar {
-    background-color: white;
-    width: 5px;
-    height: 100%; 
-    border-radius: 10px;
-    margin-right: 20px; 
-}
-
 .bodyprojet1{
     background-color:#1E1E1E;
 }
