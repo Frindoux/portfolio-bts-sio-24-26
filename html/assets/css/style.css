@@ -212,6 +212,11 @@ body{
     text-align: center;
 }
 
+.text_img img{
+    object-fit: cover;
+    width: 50%;
+}
+
 .projectpage a{
     list-style: none;
     color: white;
@@ -338,6 +343,15 @@ body{
 
 .text_img{
     flex-direction: column-reverse;
+}
+
+.text_img p{
+    font-size: smaller;
+}
+
+.text_img img{
+    object-fit: cover;
+    width: 70%;
 }
 
 .titre_retour {
