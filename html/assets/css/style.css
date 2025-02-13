@@ -317,6 +317,11 @@ footer #mentions_legales:hover{
     margin-top: 30%;
 }
 
+.elelist a{
+    margin: 8px;
+    font-size: smaller;
+}
+
 #logo{
     position: absolute; /*peut être a modif*/
     margin: 10px auto;
