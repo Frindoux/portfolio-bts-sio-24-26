@@ -133,7 +133,6 @@ body{
 }
 
 .single_project_container{
-    position:relative;
     border-radius: 5%;
     background-color:black;
     display: flex;
