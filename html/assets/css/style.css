@@ -272,6 +272,10 @@ body{
     justify-content: space-between;
 }
 
+.single_veille_container h1{
+    font-size: 100%;
+}
+
 #imgveille1{
     width: 120%;
     object-fit: cover;
@@ -320,6 +324,10 @@ body{
 
 .eleparcours {
     margin-left: 5%;
+}
+
+.eleparcours li{
+    margin-bottom: 10%;
 }
 
 .projects_container {
