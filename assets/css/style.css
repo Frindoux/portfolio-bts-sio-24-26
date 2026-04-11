@@ -32,6 +32,12 @@ body{
     padding: 3%;
 }
 
+#titrebts {
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+}
+
 #titreprofile{
     font-size: 25px;
     font-weight: normal;
