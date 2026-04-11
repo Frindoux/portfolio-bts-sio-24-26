@@ -1,0 +1,403 @@
+body{
+    font-family: Kode Mono;
+    background-color: black;
+    margin: 0;
+}
+
+.accueil{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo{
+    position: absolute;
+    margin-left: 40%;
+}
+
+#bienvenue{
+    color: white;
+    position: absolute;
+    text-align: center;
+    margin-right: 50%;
+}
+
+.presentation{
+    color: white;
+    background-color: #1E1E1E;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 3%;
+}
+
+#titreprofile{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+}
+
+#textpresentation{
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#background{
+    height: auto;
+    width: 100%;
+}
+
+.navbar{
+    position: fixed;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    top: 0;
+    background-color: black;
+    opacity: 80%;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.elelist a{
+    color: white;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.elelist:hover a{
+    text-decoration: underline;
+}
+
+.parcours{
+    color: white;
+    background-color: #1E1E1E;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 3%;
+}
+
+#titreparcours{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 3%;
+}
+
+.parcourscontainer{
+    border-left: solid white;
+}
+
+.eleparcours {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.eleparcours li{
+    margin-bottom: 3%;
+}
+
+.bodyprojet1{
+    background-color:#1E1E1E;
+}
+
+.projets{
+    color: white;
+    background-color:#1E1E1E;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.projects_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+
+.single_project_container{
+    border-radius: 5%;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    padding: 2%;
+    justify-content: space-between;
+}
+
+.single_project_container a{
+    text-decoration: none;
+    color: white;
+}
+
+.single_project_container a:hover{
+    text-decoration: underline;
+}
+
+.single_project_container h1{
+    font-size: 100%;
+}
+
+.single_project_container img{
+    size: 50%;
+}
+
+#imgprojet3{
+    width: 80%;
+    object-fit: cover;
+}
+
+#titreprojets{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 3%;
+}
+
+.projectpage{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color:black;
+    padding: 3%;
+    border-radius: 50px;
+    margin: 10%;
+}
+
+.titreprojet1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: 15%;
+}
+
+.titre_retour{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.titre_retour h1{
+    text-align: center;
+    width: 75%;
+}
+
+.titre_retour a{
+    width: 15%;
+}
+
+.text_img{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5%;
+    font-size: 120%;
+    gap: 20%;
+    align-items: center;
+}
+
+.text_img p{
+    width: 50%;
+    text-align: center;
+}
+
+.text_img img{
+    object-fit: cover;
+    width: 50%;
+    border-radius: 50px;
+}
+
+.projectpage a{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    height: 100%;
+    width: auto;
+}
+
+.projectpage a:hover{
+    list-style: none;
+    color: white;
+    text-decoration: underline;
+}
+
+.veilletechno{
+    color: white;
+    background-color: #1E1E1E;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.veille_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+
+#titreveille{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 3%;
+}
+
+.single_veille_container{
+    position:relative;
+    border-radius: 5%;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    padding: 2%;
+    justify-content: space-between;
+}
+
+.single_veille_container h1{
+    font-size: 100%;
+}
+
+#imgveille1{
+    width: 120%;
+    object-fit: cover;
+}
+
+.single_veille_container a{
+    text-decoration: none;
+    color: white;
+}
+
+.single_veille_container a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 3%;
+}
+
+footer #mentions_legales{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+footer #mentions_legales:hover{
+    text-decoration: underline;
+}
+
+#Mentions{
+    display: flex;
+    flex-direction: column;
+}
+
+.listementions{
+    list-style: inside;
+}
+
+/* Styles pour les téléphones (moins de 900px) */
+@media screen and (max-width: 900px){
+    
+.accueil{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 30%;
+}
+
+.elelist a{
+    margin: 8px;
+    font-size: smaller;
+}
+
+#logo{
+    position: absolute; /*peut être a modif*/
+    margin: 10px auto;
+    padding-bottom: 10px;
+    width: 20%;
+    margin-bottom: -30%;
+}
+
+#bienvenue {
+    font-size: 120%;
+    margin: 10px;
+    text-align: center;
+    margin-bottom: 30%
+}
+
+#background {
+    object-fit: cover;
+    width: 100%;
+}
+
+.parcourscontainer{
+    flex-direction: column;
+    align-items: center;
+}
+
+.eleparcours {
+    margin-left: 5%;
+}
+
+.eleparcours li{
+    margin-bottom: 10%;
+}
+
+.projects_container {
+    flex-direction: column;
+    align-items: center;
+}
+
+.single_project_container {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.veille_container {
+    flex-direction: column;
+    align-items: center;
+}
+
+.single_veille_container {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+#imgveille1 {
+    width: 100%;
+}
+
+.text_img{
+    flex-direction: column-reverse;
+}
+
+.text_img p{
+    font-size: smaller;
+}
+
+.text_img img{
+    object-fit: cover;
+    width: 70%;
+}
+
+.titre_retour {
+    font-size: 70%;
+    text-align: center;
+    justify-content: center;
+}
+
+}
