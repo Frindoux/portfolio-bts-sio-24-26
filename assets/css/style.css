@@ -32,6 +32,17 @@ body{
     padding: 3%;
 }
 
+#lien_cv {
+    color: white;
+    text-decoration: none;
+    margin-top: 2%;
+    display: inline-block;
+}
+
+#lien_cv:hover {
+    text-decoration: underline;
+}
+
 #titrebts {
     font-size: 25px;
     font-weight: normal;
