@@ -165,8 +165,10 @@ body{
     font-size: 100%;
 }
 
-.single_project_container img{
-    size: 50%;
+.single_project_container img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
 }
 
 #imgprojet3{
