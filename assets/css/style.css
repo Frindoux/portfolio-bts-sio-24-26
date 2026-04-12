@@ -49,6 +49,13 @@ body{
     margin-top: 0px;
 }
 
+#titledocument {
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 3%;
+}
+
 #titreprofile{
     font-size: 25px;
     font-weight: normal;
