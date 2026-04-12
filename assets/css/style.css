@@ -288,8 +288,9 @@ body{
     font-size: 100%;
 }
 
-#imgveille1{
-    width: 120%;
+.single_veille_container img {
+    width: 100%;
+    height: 250px;
     object-fit: cover;
 }
 
